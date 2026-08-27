@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LNSL99QF3Y.com.huuminstudio.LeanLine",
+        "paths": [
+          "/invite",
+          "/invite/*",
+          "/leanline/invite",
+          "/leanline/invite/*"
+        ]
+      }
+    ]
+  }
+}
