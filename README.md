@@ -1,2 +1,3 @@
-# huuminstudio.github.io
-Official website, privacy policy, terms, support, and account deletion for Spot'd.
+# HuuminStudio
+
+Official HuuminStudio website and directory for LeanLine and Spot’d.
